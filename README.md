@@ -11,7 +11,7 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
-
+### The core idea is to create a unified 'RailNav' Indoor Positioning System (IPS) that provides seamless, real-time, and accessible navigation within complex railway station environments. Our solution moves beyond static 2D maps by utilizing a hybrid localization approach (Beacons/Wi-Fi/Geo-magnetic mapping) to deliver dynamic, turn-by-turn directions via mobile apps and interactive station kiosks. The system prioritizes inclusivity with specialized accessibility features like voice guidance and barrier-free routing.
 
 ## Proposed Solution / Architecture Diagram
 
